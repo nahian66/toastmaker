@@ -6,9 +6,9 @@ import android.widget.Toast;
 public class toastmaker {
 
     // first toast library for me
-    public static void newtoast(Context context, String txt){
+    public static void newtoast(Context context, String msg){
 
-        Toast.makeText(context, txt, Toast.LENGTH_SHORT).show();
+        Toast.makeText(context, msg, Toast.LENGTH_SHORT).show();
 
     }
 
