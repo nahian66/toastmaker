@@ -1,24 +1,31 @@
 # toastmaker
-Trial toast maker library
+toastmaker I just created for testing my first created android
+libarary to check is it working or not!
+
+
+## Deployment
+
+To deploy this project run
 
 > Step 1. Add the JitPack repository to your build file
-
-'''gradle
-allprojects {
+```gradle
+  allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
 	}
-  '''
-  
-  > Step 2. Add the dependency
-  
-  '''gradle
+```
+
+
+> Step 2. Add the dependency
+```gradle
   dependencies {
-	        implementation 'com.github.nahian3832:toastmaker:1.0.0'
+	        implementation 'com.github.nahian3832:toastmaker:Tag'
 	}
-  '''
+```
+
+
  
   
   
