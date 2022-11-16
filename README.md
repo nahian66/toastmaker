@@ -19,25 +19,7 @@ allprojects {
 	        implementation 'com.github.nahian3832:toastmaker:1.0.0'
 	}
   '''
-  
-  
-  '''maven
-  <repositories>
-		<repository>
-		    <id>jitpack.io</id>
-		    <url>https://jitpack.io</url>
-		</repository>
-	</repositories>
-  '''
-  
-  
-  '''maven
-  dependency>
-	    <groupId>com.github.nahian3832</groupId>
-	    <artifactId>toastmaker</artifactId>
-	    <version>Tag</version>
-	</dependency>
-  '''
+ 
   
   
   
