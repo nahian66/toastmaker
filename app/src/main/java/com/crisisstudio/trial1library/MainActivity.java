@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        toastmaker.newtoast(this, "Sample Toast");
+        toastmaker.newtoast(this, "Trial Toast");
 
     }
 }
